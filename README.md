@@ -5,9 +5,9 @@ This is the code for submission 1833 in CIKM2019
 The sample data to evaluate our model can be found in the data folder, which contains 1000+ users and ready for directly used. 
 
 ## Requirements
-Python 2.7
-Pytorch 0.20
-cPickle is used in the project to store the preprocessed data and parameters. While appearing some warnings, pytorch 0.3.0 can also be used.
+Python 2.7 \
+Pytorch 0.20 \
+cPickle is used in the project to store the preprocessed data and parameters. While appearing some warnings, pytorch 0.3.0 can also be used.\
 
 ## Project Structure
 /codes
